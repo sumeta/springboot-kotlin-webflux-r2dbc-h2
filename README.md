@@ -1,10 +1,17 @@
 # springboot-kotlin-webflux-r2dbc-h2-template
 Template Project Springboot kotlin Coroutines
 
+### Base Project
+gradle (kotlin)
+kotlin
+webflux
+spring-data-r2dbc
+h2 datbase
+
 
 ### CURL
 
-#### Get ALl
+#### Get All
 ```
 curl --location --request GET 'localhost:8888/member/get'
 ```
