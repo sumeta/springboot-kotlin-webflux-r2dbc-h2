@@ -2,11 +2,11 @@
 Template Project Springboot kotlin Coroutines
 
 ### Base Project
-gradle (kotlin)
-kotlin
-webflux
-spring-data-r2dbc
-h2 datbase
+- gradle (kotlin)
+- kotlin
+- webflux
+- spring-data-r2dbc
+- h2 datbase
 
 
 ### CURL
