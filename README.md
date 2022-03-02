@@ -1,5 +1,5 @@
 # springboot-kotlin-webflux-r2dbc-h2
-Template Project Springboot kotlin Coroutines API
+Project Template Springboot kotlin Coroutines API
 
 ### Base Project
 - gradle (kotlin)
